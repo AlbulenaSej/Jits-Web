@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Hauptseite</title>
+<title>Startseite</title>
 <link rel="stylesheet" href="../css/Style.css">
 <style>
 .mySlides {
@@ -17,11 +17,13 @@
 </head>
 
 <body style="background-color: #000000">
+
 	<div class="container">
 		<div class="navbar">
 			<div class="logo">
-				<a href="StartseiteView.jsp"> <img src="../IMG/Logo.jpg" alt="Logo"
-					width="125px" height="auto">
+				<a href="StartseiteView.jsp">
+				 <img class="logo-image" src="../IMG/JITSLOGO.png" alt ="logo"
+					width="125px" height="auto"/>
 				</a>
 			</div>
 			<nav>
@@ -38,14 +40,17 @@
 			</nav>
 		</div>
 		<div class="collum1">
-			<h1>
-				<u>Rette deinen Abend</u>!
-			</h1>
+		<p>Herzlich Willkommen! 
+			</br>
+			<p>
+				Du hast vergessen etwas einzukaufen?<br>
+				Kein Problem, <br> wir retten dir deinen Abend!
+			<p>
+			JITS ist ein Nachtlieferservice, wir liefern dir Getränke, Snacks und bereits zusammengestellte Pakete direkt an die Haustür.  </br></br>
+			Unsere Spezial Paket Angebote: </p>
+			
 			<br>
-			<p>
-				Du hast vergessen etwas einzukaufen?<br> <br> Kein
-				Problem, <br> wir retten dir deinen Abend!
-			<p>
+			
 		</div>
 		<div class="slides">
 			<a href="Paket1View.jsp"><img class="mySlides"
@@ -63,10 +68,10 @@
 			<div class="mySlides2">
 				<a href="Paket3View.jsp">Ruhige Nacht</a>
 			</div>
-			<a href="Paket4.jsp"><img class="mySlides"
+			<a href="Paket4View.jsp"><img class="mySlides"
 				src="../IMG/Paket4.jpg" height="800px" width="auto"></a>
 			<div class="mySlides2">
-				<a href="Paket4.jsp">Party</a>
+				<a href="Paket4View.jsp">Party</a>
 			</div>
 		</div>
 

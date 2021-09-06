@@ -18,20 +18,20 @@
 	<div class="container">
 		<div class="navbar">
 			<div class="logo">
-				<a href="Hauptseite.jsp"> <img src="../IMG/Logo.jpg" alt="Logo"
+				<a href="StartseiteView.jsp"> <img src="../IMG/Logo.jpg" alt="Logo"
 					width="125px" height="auto">
 				</a>
 			</div>
 			<nav>
 				<ul>
-					<li><a href="Hauptseite.jsp">Home</a></li>
-					<li><a href="Snacks.jsp">Snacks</a></li>
-					<li><a href="alkoholfrei.jsp">alkoholfreie Drinks</a></li>
-					<li><a href="alkoholisch.jsp">alkoholische Drinks</a></li>
-					<li><a href="Pakete.jsp">Pakete</a></li>
-					<li><a href="Uns.jsp">Über uns</a></li>
-					<li><a href="Kontakt.jsp">Kontakt</a></li>
-					<li><a href="Warenkorb.jsp">Warenkorb</a></li>
+					<li><a href="StartseiteView.jsp">Home</a></li>
+					<li><a href="SnacksView.jsp">Snacks</a></li>
+					<li><a href="alkoholfreiView.jsp">alkoholfreie Drinks</a></li>
+					<li><a href="alkoholischView.jsp">alkoholische Drinks</a></li>
+					<li><a href="PaketeView.jsp">Pakete</a></li>
+					<li><a href="UnsView.jsp">Über uns</a></li>
+					<li><a href="KontaktView.jsp">Kontakt</a></li>
+					<li><a href="WarenkorbView.jsp">Warenkorb</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -41,43 +41,43 @@
 		</h1>
 		<div class="wrapper">
 			<div class="one">
-				<a href="Fanta.jsp"> <img src="../IMG/Fanta.png" alt="Fanta"
+				<a href="FantaView.jsp"> <img src="../IMG/Fanta.png" alt="Fanta"
 					width="auto" height="375px">
 				</a>
 				<p>Fanta</p>
 			</div>
 			<div class="one">
-				<a href="Cola.jsp"> <img src="../IMG/Cola.jpg" alt="Cola"
+				<a href="ColaView.jsp"> <img src="../IMG/Cola.jpg" alt="Cola"
 					width="auto" height="375px">
 				</a>
 				<p>Cola</p>
 			</div>
 			<div class="one">
-				<a href="Wasser.jsp"> <img src="../IMG/Wasser.jpg" alt="Wasser"
+				<a href="WasserView.jsp"> <img src="../IMG/Wasser.jpg" alt="Wasser"
 					width="auto" height="375px">
 				</a>
 				<p>Wasser</p>
 			</div>
 			<div class="one">
-				<a href="Monster.jsp"> <img src="../IMG/Monster.jpg"
+				<a href="MonsterView.jsp"> <img src="../IMG/Monster.jpg"
 					alt="Monster" width="auto" height="375px">
 				</a>
 				<p>Monster Energy</p>
 			</div>
 			<div class="one">
-				<a href="Saft.jsp"> <img src="../IMG/Saft.png" alt="Saft"
+				<a href="SaftView.jsp"> <img src="../IMG/Saft.png" alt="Saft"
 					width="auto" height="375px">
 				</a>
 				<p>Orangensaft</p>
 			</div>
 			<div class="one">
-				<a href="RadlerAlkfrei.jsp"> <img src="../IMG/RadlerAlkfrei.jpg"
+				<a href="RadlerAlkfreiView.jsp"> <img src="../IMG/RadlerAlkfrei.jpg"
 					alt="Radler Alkoholfrei" width="auto" height="375px">
 				</a>
 				<p>Radler Alkoholfrei</p>
 			</div>
 			<div class="one">
-				<a href="BierAlkfrei.jsp"> <img src="../IMG/BierAlkfrei.jpg"
+				<a href="BierAlkfreiView.jsp"> <img src="../IMG/BierAlkfrei.jpg"
 					alt="Bier Alkoholfrei" width="auto" height="375px">
 				</a>
 				<p>Bier Alkoholfrei</p>
